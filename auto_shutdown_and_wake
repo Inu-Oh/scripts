@@ -7,11 +7,11 @@
 
 # sudo crontab -e
 
-# add this text to the crontab file:
+# add this text to the crontab file, without the hash sing:
 
-# 40 6 * * * /home/username/suspend_until 21:22
+# 15 11 * * * /home/username/suspend_until 7:00
 
-# This will run the suspend_unitil script at 6:40 AM or however the script is set 
+# This will run the suspend_unitil script at 11:15PM or however the script is set 
 
 # If the script is not working work on the following script section to change how the computer is suspended
 
